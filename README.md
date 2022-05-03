@@ -12,11 +12,11 @@
 
 ## Recent work👏
 
-🌹[D-GCAN](https://github.com/Jinyu-Sun1/D-GCAN/blob/main/main/D_GCAN.py)
+- 🌹 [D-GCAN](https://github.com/Jinyu-Sun1/D-GCAN/blob/main/main/D_GCAN.py)
 
-🎉[QDF-Donor](https://github.com/Jinyu-Sun1/QDF-Donor/tree/main/model)
+- 🎉 [QDF-Donor](https://github.com/Jinyu-Sun1/QDF-Donor/tree/main/model)
 
-🎈[NFA-Bert](https://github.com/Jinyu-Sun1/NFA-BERT)
+- 🎈 [NFA-Bert](https://github.com/Jinyu-Sun1/NFA-BERT)
 
 
 
