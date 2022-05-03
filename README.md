@@ -2,8 +2,6 @@
 
 - 🌱 Major: Deep learning-based drug property prediction, material design and property prediction
 
-- 🏡 Hometown: China
-
 - 🏢 School: Central South University
 
 - ☎Contact: Jinyusun@csu.edu.cn
