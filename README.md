@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Jinyu-Sun1/Jinyu-Sun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Major: Deep learning-based drug property prediction, material design and property prediction
 
-Here are some ideas to get you started:
+- 🏡 Hometown: China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 School: Central South University
+
+- ☎Contact: Jinyusun@csu.edu.cn
+
+  
+
+## Recent work👏
+
+🌹[D-GCAN](https://github.com/Jinyu-Sun1/D-GCAN/blob/main/main/D_GCAN.py)
+
+🎉[QDF-Donor](https://github.com/Jinyu-Sun1/QDF-Donor/tree/main/model)
+
+🎈[NFA-Bert](https://github.com/Jinyu-Sun1/NFA-BERT)
+
+
+
+- #### It is fun talking to you!
+
+  
