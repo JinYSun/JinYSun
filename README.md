@@ -16,7 +16,17 @@
 
 - 🎈 [NFA-Bert](https://github.com/JinYSun/NFA-BERT)
 
- [![jinyusun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinysun)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![jinyusun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinysun)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jinysun" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jinysun&theme=minimal" />
+</div>
 
 - #### It is fun talking to you!
 
