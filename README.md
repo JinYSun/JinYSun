@@ -17,7 +17,7 @@
 - 🎈 [NFA-Bert](https://github.com/JinYSun/NFA-BERT)
 
 <div align="center">
-[![jinyusun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinysun)](https://github.com/anuraghazra/github-readme-stats)
+    <img  src="https://github-readme-stats.vercel.app/api?username=Jinysun" />
 </div>
 
 <div align="center">
