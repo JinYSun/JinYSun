@@ -12,7 +12,7 @@
 
 - 🌹 [D-GCAN](https://github.com/JinYSun/D-GCAN/)
 
-- 🎉 [DeeoDonor](https://github.com/JinYSun/DeepDonor)
+- 🎉 [DeepDonor](https://github.com/JinYSun/DeepDonor)
 
 - 🎈 [DeepAcceptor](https://github.com/JinYSun/NFA-BERT)
 
