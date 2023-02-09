@@ -20,9 +20,6 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=Jinysun" />
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jinysun" />
-</div>
 
 - #### It is fun talking to you!
 
