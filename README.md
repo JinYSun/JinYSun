@@ -12,9 +12,9 @@
 
 - 🌹 [D-GCAN](https://github.com/JinYSun/D-GCAN/)
 
-- 🎉 [QDF-Donor](https://github.com/JinYSun/QDF-Donor)
+- 🎉 [DeeoDonor](https://github.com/JinYSun/DeepDonor)
 
-- 🎈 [NFA-Bert](https://github.com/JinYSun/NFA-BERT)
+- 🎈 [DeepAcceptor](https://github.com/JinYSun/NFA-BERT)
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=Jinysun" />
@@ -24,10 +24,6 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jinysun" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Jinysun&theme=minimal" />
-</div>
-
 - #### It is fun talking to you!
 
-  
+ 
