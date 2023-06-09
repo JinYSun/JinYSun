@@ -16,8 +16,6 @@
 
 - 🎈 [DeepAcceptor](https://github.com/JinYSun/NFA-BERT)
 
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Jinysun" />
 </div>
 
 
