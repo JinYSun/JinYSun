@@ -14,7 +14,9 @@
 
 - 🎉 [DeepDonor](https://github.com/JinYSun/DeepDonor)
 
-- 🎈 [DeepAcceptor](https://github.com/JinYSun/NFA-BERT)
+- 🎈 [DeepAcceptor](https://github.com/JinYSun/DeepAcceptor)
+
+- 🎶 [FastEI](https://github.com/JinYSun/FastEI)
 
 - ❤ [dffROI](https://github.com/JinYSun/dffROI)
 
