@@ -16,6 +16,10 @@
 
 - 🎈 [DeepAcceptor](https://github.com/JinYSun/NFA-BERT)
 
+- ❤ [dffROI](https://github.com/JinYSun/dffROI)
+
+- ⌛ [EasyCID](https://github.com/JinYSun/EasyCID)
+
 </div>
 
 
