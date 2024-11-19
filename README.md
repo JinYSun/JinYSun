@@ -14,7 +14,7 @@
   
 - 🎈 [DeepAcceptor](https://github.com/JinYSun/DeepAcceptor)
 
-- 🌹 [OSC-database](https://github.com/JinYSun/OSC-database)
+- 🎁 [BiBERTa](https://github.com/JinYSun/BiBERTa)
 
 - 🌹 [D-GCAN](https://github.com/JinYSun/D-GCAN/)
 
@@ -23,6 +23,10 @@
 - ❤ [dffROI](https://github.com/JinYSun/dffROI)
 
 - ⌛ [EasyCID](https://github.com/JinYSun/EasyCID)
+
+- 🎨 [graphCCS](https://github.com/tingxiecsu/GraphCCS)
+
+- 🎏 [HSIVAE](https://github.com/Ryan21wy/HSIMAE)
 
 </div>
 
