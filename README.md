@@ -2,9 +2,9 @@
 
 - 🌱 Major: Deep learning-based drug property prediction, material design and property prediction
 
-- 🏢 School: Central South University
+- 🏢 School: Dalian Institute of Chemical Physics, Chinese Academy of Sciences
 
-- ☎Contact: Jinyusun@csu.edu.cn
+  - ☎Contact: Sunjinyu@dicp.ac.cn
 
   
 
