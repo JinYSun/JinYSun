@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 Major: Deep learning-based drug property prediction, material design and property prediction
+- 🌱 Major: AI-assisted material discovery and Metabolomics, AI for engineering
 
 - 🏢 School: Dalian Institute of Chemical Physics, Chinese Academy of Sciences
 
