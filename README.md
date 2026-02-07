@@ -9,7 +9,8 @@
   
 
 ## Recent work👏
-
+- 🤖 [TeLLAgent](https://github.com/JinYSun/TeLLAgent)
+  
 - 🎉 [DeepDonor](https://github.com/JinYSun/DeepDonor)
   
 - 🎈 [DeepAcceptor](https://github.com/JinYSun/DeepAcceptor)
@@ -28,6 +29,9 @@
 
 - 🎏 [HSIVAE](https://github.com/Ryan21wy/HSIMAE)
 
+- 💕 [CSU-MS2](https://github.com/tingxiecsu/CSU-MS2)
+
+- 🫧 [DeepMIR]((https://github.com/LinTan-CSU/DeepMIR))
 </div>
 
 
