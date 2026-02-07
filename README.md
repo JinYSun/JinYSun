@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🌱 Major: AI-assisted material discovery and Metabolomics, AI for engineering
+- 🌱 Major: AI-assisted material discovery, cheminformatics and chemometrics, AI for engineering
 
 - 🏢 School: Dalian Institute of Chemical Physics, Chinese Academy of Sciences
 
-  - ☎Contact: Sunjinyu@dicp.ac.cn
+- ☎️ Contact: Sunjinyu@dicp.ac.cn
 
   
 
